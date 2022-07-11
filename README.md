@@ -14,6 +14,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+
+For succsessful login you need to write to inputs userName: 'test' Password: '12345' on the login screen
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
