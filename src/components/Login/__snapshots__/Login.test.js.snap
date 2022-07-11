@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render  1`] = `
+<div
+  className="container"
+>
+  <form
+    className="form"
+    onSubmit={[Function]}
+  >
+    <h1
+      className="title"
+    >
+      Sign in
+    </h1>
+    <input
+      className="input"
+      onChange={[Function]}
+      placeholder="User"
+      type="text"
+      value=""
+    />
+    <input
+      className="input"
+      onChange={[Function]}
+      placeholder="Password"
+      type="password"
+      value=""
+    />
+    <button
+      className="btn"
+      type="submit"
+    >
+      Log in
+    </button>
+  </form>
+</div>
+`;
